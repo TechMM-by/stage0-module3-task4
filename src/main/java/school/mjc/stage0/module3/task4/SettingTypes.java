@@ -2,6 +2,14 @@ package school.mjc.stage0.module3.task4;
 
 public class SettingTypes {
     public static void main(String[] args) {
+        long first;
+        char second;
+        boolean third;
+        double forth;
+        float fifth;
+        byte sixth;
+        short seventh;
+
         first = 10_000_000_000L;
         second = 'a';
         third = 5 > 9;
